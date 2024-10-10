@@ -6,4 +6,4 @@ The generator will allow for quick and convenient creation of graphite planners 
 
 Everything will be presented in an accessible form to make using this generator as enjoyable as possible.
 
-I will add new features to this project as fast as possible.
+I will add new features to this project as fast as possible. This project can improve the work of managers of the Dino chain of stores and not only.
