@@ -54,3 +54,9 @@ const pracownicy.forEach((pracownik) => {
       h2.innerHTML = pracownik;
       p.appendChild(h2);
 })
+
+let weekSchedule;
+let monthSchedule;
+let employeeHours;
+let positions = ["manager", "co-manager", "meathead", "worker", "worker2", "worker3"];
+
